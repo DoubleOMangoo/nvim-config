@@ -4,6 +4,9 @@ return-- lazy.nvim
 	priority = 1000,
 	---@type snacks.Config
 	opts = {
+		explorer = {
+
+		},
 		indent = {
 			-- your indent configuration comes here
 			-- or leave it empty to use the default settings
